@@ -1,6 +1,8 @@
 /*  your css code here. If applicable */
 body{
 	background-color: rgb(204, 204, 204);
+	text-decoration-line:none;
+	text-align:center;
 }
 h1,h2{
 	text-align:center;
