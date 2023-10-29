@@ -4,6 +4,9 @@ body{
 	text-decoration-line:none;
 	text-align:center;
 }
+a{
+	text-decoration-line:none;
+}
 h1,h2{
 	text-align:center;
 }
