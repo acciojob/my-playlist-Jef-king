@@ -9,10 +9,12 @@ h1,h2{
 }
 li{
 	list-style-type:none;
+	text-align:left;
 }
 .player_one .player_two{
 	padding:10px;
 	border-radius:20px;
+	background-color:#fff;
 }
 div{
 	border: solid black 2px;
