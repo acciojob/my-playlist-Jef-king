@@ -11,7 +11,7 @@ li{
 	list-style-type:none;
 	text-align:left;
 }
-.player_one .player_two{
+.player_one,.player_two{
 	padding:10px;
 	border-radius:20px;
 	background-color:#fff;
